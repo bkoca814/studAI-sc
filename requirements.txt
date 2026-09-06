@@ -1,0 +1,7 @@
+streamlit
+google-genai>=0.8.0
+pillow
+moviepy
+gTTS
+matplotlib
+numpy
